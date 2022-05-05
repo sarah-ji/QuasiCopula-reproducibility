@@ -1,0 +1,11 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GLM = "38e38edf-8417-5370-95a0-9cbb8c7f171a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MixedModels = "ff71e718-51f3-5ec2-a782-8ffcbfa3c316"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+QuasiCopula = "c47b6ae2-b804-4668-9957-eb588c99ffbc"
+RCall = "6f49c342-dc21-5d91-9882-a32aef131414"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+ToeplitzMatrices = "c751599d-da0a-543b-9d20-d0a503d91d24"
